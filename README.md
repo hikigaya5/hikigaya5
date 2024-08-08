@@ -9,16 +9,16 @@
 <h3 align="center">🌟 Skills</h3>
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/hikigaya5/hikigaya5/main/icons/python.svg" alt="Python" width="75" height="75" style="margin-right:-20px;margin-bottom:-12px"/>
+    <img src="https://raw.githubusercontent.com/hikigaya5/hikigaya5/main/icons/python.svg" alt="Python" width="75" height="75"/>
     <img src="https://raw.githubusercontent.com/hikigaya5/hikigaya5/main/icons/java.svg" alt="Java" width="60" height="50"/>
     <img src="https://raw.githubusercontent.com/hikigaya5/hikigaya5/main/icons/javascript.svg" alt="JavaScript" width="60" height="50"/>
     <img src="https://raw.githubusercontent.com/hikigaya5/hikigaya5/main/icons/html.svg" alt="HTML" width="60" height="50"/>
     <img src="https://raw.githubusercontent.com/hikigaya5/hikigaya5/main/icons/css.svg" alt="CSS" width="50" height="50"/>
     <img src="https://raw.githubusercontent.com/hikigaya5/hikigaya5/main/icons/django.svg" alt="Django" width="50" height="50"/>
     <img src="https://raw.githubusercontent.com/hikigaya5/hikigaya5/main/icons/spring.svg" alt="Spring" width="50" height="50"/>
-    <img src="https://raw.githubusercontent.com/hikigaya5/hikigaya5/main/icons/oracle.svg" alt="Oracle" width="50" height="50" style="margin-left:8px;margin-right:-4px"/>
+    <img src="https://raw.githubusercontent.com/hikigaya5/hikigaya5/main/icons/oracle.svg" alt="Oracle" width="50" height="50"/>
     <img src="https://raw.githubusercontent.com/hikigaya5/hikigaya5/main/icons/mongodb.svg" alt="MongoDB" width="50" height="50"/>
-    <img src="https://raw.githubusercontent.com/hikigaya5/hikigaya5/main/icons/pandas.svg" alt="Pandas" width="50" height="50" style="margin-left:-10px"/>
+    <img src="https://raw.githubusercontent.com/hikigaya5/hikigaya5/main/icons/pandas.svg" alt="Pandas" width="50" height="50"/>
     <img src="https://raw.githubusercontent.com/hikigaya5/hikigaya5/main/icons/seaborn.svg" alt="Seaborn" width="50" height="50"/>
     <img src="https://raw.githubusercontent.com/hikigaya5/hikigaya5/main/icons/scikit-learn.svg" alt="Scikit-learn" width="70" height="60"/>
     <img src="https://raw.githubusercontent.com/hikigaya5/hikigaya5/main/icons/git.svg" alt="Git" width="60" height="50"/>
