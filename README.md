@@ -1,10 +1,71 @@
-<h1 align="center">Hi 👋, I'm Sergio</h1>
-<h3 align="center">A passionate fullstack developer from Spain</h3>
+<h1 align="center">👋 Hi there! I'm Sergio</h1>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h2 align="center">🧑‍💻 About Me</h2>
+
+<p align="center">
+    Welcome to my GitHub profile! I'm a <strong>fullstack</strong> developer with a deep interest in <strong>machine learning</strong>. While I don't have formal work experience, I'm committed to creating projects that reflect my versatility and love for coding. I'm passionate about learning new technologies and constantly improving my skills.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+<h2 align="center">🌟 Skills</h2>
 
+<p align="center">
+    <img src="https://raw.githubusercontent.com/hikigaya5/hikigaya5/main/icons/python.svg" alt="Python" width="75" height="75" style="margin-right:-20px;margin-bottom:-12px"/>
+    <img src="https://raw.githubusercontent.com/hikigaya5/hikigaya5/main/icons/java.svg" alt="Java" width="60" height="50"/>
+    <img src="https://raw.githubusercontent.com/hikigaya5/hikigaya5/main/icons/javascript.svg" alt="JavaScript" width="60" height="50"/>
+    <img src="https://raw.githubusercontent.com/hikigaya5/hikigaya5/main/icons/html.svg" alt="HTML" width="60" height="50"/>
+    <img src="https://raw.githubusercontent.com/hikigaya5/hikigaya5/main/icons/css.svg" alt="CSS" width="50" height="50"/>
+    <img src="https://raw.githubusercontent.com/hikigaya5/hikigaya5/main/icons/django.svg" alt="Django" width="50" height="50"/>
+    <img src="https://raw.githubusercontent.com/hikigaya5/hikigaya5/main/icons/spring.svg" alt="Spring" width="50" height="50"/>
+    <img src="https://raw.githubusercontent.com/hikigaya5/hikigaya5/main/icons/oracle.svg" alt="Oracle" width="50" height="50" style="margin-left:8px;margin-right:-4px"/>
+    <img src="https://raw.githubusercontent.com/hikigaya5/hikigaya5/main/icons/mongodb.svg" alt="MongoDB" width="50" height="50"/>
+    <img src="https://raw.githubusercontent.com/hikigaya5/hikigaya5/main/icons/pandas.svg" alt="Pandas" width="50" height="50" style="margin-left:-10px"/>
+    <img src="https://raw.githubusercontent.com/hikigaya5/hikigaya5/main/icons/seaborn.svg" alt="Seaborn" width="50" height="50"/>
+    <img src="https://raw.githubusercontent.com/hikigaya5/hikigaya5/main/icons/scikit-learn.svg" alt="Scikit-learn" width="70" height="60"/>
+    <img src="https://raw.githubusercontent.com/hikigaya5/hikigaya5/main/icons/git.svg" alt="Git" width="60" height="50"/>
+    <img src="https://raw.githubusercontent.com/hikigaya5/hikigaya5/main/icons/github%20actions.svg" alt="GitHub Actions" width="50" height="50"/>
+</p>
+
+<h2 align="center">📚 What I'm Learning</h2>
+
+<p align="center">
+    I'm always on the lookout to learn something new. Currently, I'm focused on:
+</p>
+
+<ul>
+    <li>🔍 <strong>GraphQL</strong>: Learning how to design and implement efficient and flexible APIs using GraphQL.</li>
+    <li>🐳 <strong>Docker</strong>: Exploring Docker to streamline development workflows and ensure consistent environments across different stages of deployment.</li>
+    <li>🔧 <strong>DevOps</strong>: Best practices for Continuous Integration and Continuous Delivery (CI/CD).</li>
+</ul>
+<!--
+<h2 align="center">🚀 Featured Projects</h2>
+
+<p align="center">
+    Here are some of my projects that I'm proud to share:
+</p>
+
+<ul>
+    <li><strong>[Project Example 1](#)</strong>: A fullstack web application for [brief description].</li>
+    <li><strong>[Project Example 2](#)</strong>: A Machine Learning model that [brief description].</li>
+    <li><strong>[Project Example 3](#)</strong>: A CLI tool for [brief description].</li>
+</ul>
+-->
+<h2 align="center">📊 GitHub Stats</h2>
+<a href='https://github.com/rahul-jha98/github-stats-transparent'>
+  
+![Stats Overview](https://raw.githubusercontent.com/hikigaya5/github-stats-transparent/output/generated/overview.svg)
+![Most Used Languages](https://raw.githubusercontent.com/hikigaya5/github-stats-transparent/output/generated/languages.svg)
+
+</a>
+</p>
+
+<h2 align="center">🌍 Let's Connect</h2>
+
+<p align="center">
+    If you have any questions, suggestions, or just want to chat about tech, feel free to reach out:
+</p>
+
+<p align="center">
+    <a href="mailto:your-sersanchezkumite@gmail.com">📧Email</a>
+</p>
+
+<p align="center">Thanks for visiting my profile. I hope you find something interesting in my repositories!</p>
