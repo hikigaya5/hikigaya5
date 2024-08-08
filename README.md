@@ -1,12 +1,12 @@
-<h1 align="center">👋 Hi there! I'm Sergio</h1>
+<h2 align="center">👋 Hi there! I'm Sergio</h2>
 
-<h2 align="center">🧑‍💻 About Me</h2>
+<h3 align="center">🧑‍💻 About Me</h3>
 
 <p align="center">
     Welcome to my GitHub profile! I'm a <strong>fullstack</strong> developer with a deep interest in <strong>machine learning</strong>. While I don't have formal work experience, I'm committed to creating projects that reflect my versatility and love for coding. I'm passionate about learning new technologies and constantly improving my skills.
 </p>
 
-<h2 align="center">🌟 Skills</h2>
+<h3 align="center">🌟 Skills</h3>
 
 <p align="center">
     <img src="https://raw.githubusercontent.com/hikigaya5/hikigaya5/main/icons/python.svg" alt="Python" width="75" height="75" style="margin-right:-20px;margin-bottom:-12px"/>
@@ -25,7 +25,7 @@
     <img src="https://raw.githubusercontent.com/hikigaya5/hikigaya5/main/icons/github%20actions.svg" alt="GitHub Actions" width="50" height="50"/>
 </p>
 
-<h2 align="center">📚 What I'm Learning</h2>
+<h3 align="center">📚 What I'm Learning</h3>
 
 <p align="center">
     I'm always on the lookout to learn something new. Currently, I'm focused on:
@@ -37,7 +37,7 @@
     <li>🔧 <strong>DevOps</strong>: Best practices for Continuous Integration and Continuous Delivery (CI/CD).</li>
 </ul>
 <!--
-<h2 align="center">🚀 Featured Projects</h2>
+<h3 align="center">🚀 Featured Projects</h3>
 
 <p align="center">
     Here are some of my projects that I'm proud to share:
@@ -49,7 +49,7 @@
     <li><strong>[Project Example 3](#)</strong>: A CLI tool for [brief description].</li>
 </ul>
 -->
-<h2 align="center">📊 GitHub Stats</h2>
+<h3 align="center">📊 GitHub Stats</h3>
 <a href='https://github.com/rahul-jha98/github-stats-transparent'>
   
 ![Stats Overview](https://raw.githubusercontent.com/hikigaya5/github-stats-transparent/output/generated/overview.svg)
@@ -57,7 +57,7 @@
 
 </a>
 
-<h2 align="center">🌍 Let's Connect</h2>
+<h3 align="center">🌍 Let's Connect</h3>
 
 <p align="center">
     If you have any questions, suggestions, or just want to chat about tech, feel free to reach out:
