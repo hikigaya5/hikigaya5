@@ -9,7 +9,7 @@
 <h3 align="center">🌟 Skills</h3>
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/hikigaya5/hikigaya5/main/icons/python.svg" alt="Python" width="75" height="75"/>
+    <div style="margin-bottom:-12px"><img src="https://raw.githubusercontent.com/hikigaya5/hikigaya5/main/icons/python.svg" alt="Python" width="75" height="75"/></div>
     <img src="https://raw.githubusercontent.com/hikigaya5/hikigaya5/main/icons/java.svg" alt="Java" width="60" height="50"/>
     <img src="https://raw.githubusercontent.com/hikigaya5/hikigaya5/main/icons/javascript.svg" alt="JavaScript" width="60" height="50"/>
     <img src="https://raw.githubusercontent.com/hikigaya5/hikigaya5/main/icons/html.svg" alt="HTML" width="60" height="50"/>
