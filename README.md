@@ -1,11 +1,11 @@
 <h2 align="center">👋 Hi there! I'm Sergio</h2>
-
+<br>
 <h3 align="center">🧑‍💻 About Me</h3>
 
 <p align="center">
     Welcome to my GitHub profile! I'm a <strong>fullstack</strong> developer with a deep interest in <strong>machine learning</strong>. While I don't have formal work experience, I'm committed to creating projects that reflect my versatility and love for coding. I'm passionate about learning new technologies and constantly improving my skills.
 </p>
-
+<br>
 <h3 align="center">🌟 Skills</h3>
 
 <p align="center">
@@ -24,7 +24,7 @@
     <img src="https://raw.githubusercontent.com/hikigaya5/hikigaya5/main/icons/git.svg" alt="Git" width="60" height="50"/>
     <img src="https://raw.githubusercontent.com/hikigaya5/hikigaya5/main/icons/github%20actions.svg" alt="GitHub Actions" width="50" height="50"/>
 </p>
-
+<br>
 <h3 align="center">📚 What I'm Learning</h3>
 
 <p align="center">
@@ -49,6 +49,7 @@
     <li><strong>[Project Example 3](#)</strong>: A CLI tool for [brief description].</li>
 </ul>
 -->
+<br>
 <h3 align="center">📊 GitHub Stats</h3>
 <a href='https://github.com/rahul-jha98/github-stats-transparent'>
   
@@ -56,7 +57,7 @@
 ![Most Used Languages](https://raw.githubusercontent.com/hikigaya5/github-stats-transparent/output/generated/languages.svg)
 
 </a>
-
+<br>
 <h3 align="center">🌍 Let's Connect</h3>
 
 <p align="center">
