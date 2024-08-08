@@ -16,7 +16,7 @@
     <img src="https://raw.githubusercontent.com/hikigaya5/hikigaya5/main/icons/css.svg" alt="CSS" width="50" height="50"/>
     <img src="https://raw.githubusercontent.com/hikigaya5/hikigaya5/main/icons/django.svg" alt="Django" width="50" height="50"/>
     <img src="https://raw.githubusercontent.com/hikigaya5/hikigaya5/main/icons/spring.svg" alt="Spring" width="50" height="50"/>
-    <div style="display:inline-block;margin-left:10px"><img src="https://raw.githubusercontent.com/hikigaya5/hikigaya5/main/icons/oracle.svg" alt="Oracle" width="50" height="50"/></div>
+    <img src="https://raw.githubusercontent.com/hikigaya5/hikigaya5/main/icons/oracle.svg" alt="Oracle" width="50" height="50"/>
     <img src="https://raw.githubusercontent.com/hikigaya5/hikigaya5/main/icons/mongodb.svg" alt="MongoDB" width="50" height="50"/>
     <img src="https://raw.githubusercontent.com/hikigaya5/hikigaya5/main/icons/pandas.svg" alt="Pandas" width="50" height="50"/>
     <img src="https://raw.githubusercontent.com/hikigaya5/hikigaya5/main/icons/seaborn.svg" alt="Seaborn" width="50" height="50"/>
