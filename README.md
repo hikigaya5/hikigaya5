@@ -56,7 +56,6 @@
 ![Most Used Languages](https://raw.githubusercontent.com/hikigaya5/github-stats-transparent/output/generated/languages.svg)
 
 </a>
-</p>
 
 <h2 align="center">🌍 Let's Connect</h2>
 
