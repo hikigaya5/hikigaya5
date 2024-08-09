@@ -6,8 +6,8 @@
     Welcome to my GitHub profile! I'm a <strong>fullstack</strong> developer with a deep interest in <strong>machine learning</strong>. While I don't have formal work experience, I'm committed to creating projects that reflect my versatility and love for coding. I'm passionate about learning new technologies and constantly improving my skills.
 </p>
 
-<div align="center"><img align="center" src="https://raw.githubusercontent.com/hikigaya5/hikigaya5/main/icons/developer.gif" alt="GIF" width="500px"/></div>
-<br>
+<div align="center"><img align="center" src="https://raw.githubusercontent.com/hikigaya5/hikigaya5/main/icons/developer.gif" alt="GIF" width="400px"/></div>
+
 <h3 align="center">🌟 Skills</h3>
 
 <p align="center">
