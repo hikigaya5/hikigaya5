@@ -51,12 +51,13 @@
 -->
 <br>
 <h3 align="center">📊 GitHub Stats</h3>
-<a href='https://github.com/rahul-jha98/github-stats-transparent'>
+<div align="center"><a href='https://github.com/rahul-jha98/github-stats-transparent'>
   
 ![Stats Overview](https://raw.githubusercontent.com/hikigaya5/github-stats-transparent/output/generated/overview.svg)
 ![Most Used Languages](https://raw.githubusercontent.com/hikigaya5/github-stats-transparent/output/generated/languages.svg)
 
 </a>
+</div>
 <br>
 <h3 align="center">🌍 Let's Connect</h3>
 
