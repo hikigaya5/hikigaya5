@@ -1,6 +1,6 @@
 <h2 align="center">👋 Hi there! I'm Sergio</h2>
 <br>
-<img align="center" src="https://raw.githubusercontent.com/hikigaya5/hikigaya5/main/icons/developer.gif" alt="GIF" width="650px"/>
+<img align="left" src="https://raw.githubusercontent.com/hikigaya5/hikigaya5/main/icons/developer.gif" alt="GIF" width="650px"/>
 <h3 align="center">🧑‍💻 About Me</h3>
 
 <p align="left">
