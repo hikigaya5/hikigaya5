@@ -11,20 +11,20 @@
 <h3 align="center">🌟 Skills</h3>
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/hikigaya5/hikigaya5/main/icons/python.svg" alt="Python" width="50" height="50"/>
-    <img src="https://raw.githubusercontent.com/hikigaya5/hikigaya5/main/icons/java.svg" alt="Java" width="60" height="50"/>
-    <img src="https://raw.githubusercontent.com/hikigaya5/hikigaya5/main/icons/javascript.svg" alt="JavaScript" width="60" height="50"/>
-    <img src="https://raw.githubusercontent.com/hikigaya5/hikigaya5/main/icons/html.svg" alt="HTML" width="60" height="50"/>
-    <img src="https://raw.githubusercontent.com/hikigaya5/hikigaya5/main/icons/css.svg" alt="CSS" width="50" height="50"/>
-    <img src="https://raw.githubusercontent.com/hikigaya5/hikigaya5/main/icons/django.svg" alt="Django" width="50" height="50"/>
-    <img src="https://raw.githubusercontent.com/hikigaya5/hikigaya5/main/icons/spring.svg" alt="Spring" width="50" height="50"/>
-    <img src="https://raw.githubusercontent.com/hikigaya5/hikigaya5/main/icons/oracle.svg" alt="Oracle" width="50" height="50"/>
-    <img src="https://raw.githubusercontent.com/hikigaya5/hikigaya5/main/icons/mongodb.svg" alt="MongoDB" width="50" height="50"/>
-    <img src="https://raw.githubusercontent.com/hikigaya5/hikigaya5/main/icons/pandas.svg" alt="Pandas" width="50" height="50"/>
-    <img src="https://raw.githubusercontent.com/hikigaya5/hikigaya5/main/icons/seaborn.svg" alt="Seaborn" width="50" height="50"/>
-    <img src="https://raw.githubusercontent.com/hikigaya5/hikigaya5/main/icons/scikit-learn.svg" alt="Scikit-learn" width="70" height="60"/>
-    <img src="https://raw.githubusercontent.com/hikigaya5/hikigaya5/main/icons/git.svg" alt="Git" width="60" height="50"/>
-    <img src="https://raw.githubusercontent.com/hikigaya5/hikigaya5/main/icons/github%20actions.svg" alt="GitHub Actions" width="50" height="50"/>
+    <a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/hikigaya5/hikigaya5/main/icons/python.svg" alt="Python" width="50" height="50"/></a>
+    <a href="https://www.java.com/" target="_blank"><img src="https://raw.githubusercontent.com/hikigaya5/hikigaya5/main/icons/java.svg" alt="Java" width="60" height="50"/></a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/hikigaya5/hikigaya5/main/icons/javascript.svg" alt="JavaScript" width="60" height="50"/></a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://raw.githubusercontent.com/hikigaya5/hikigaya5/main/icons/html.svg" alt="HTML" width="60" height="50"/></a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://raw.githubusercontent.com/hikigaya5/hikigaya5/main/icons/css.svg" alt="CSS" width="50" height="50"/></a>
+    <a href="https://www.djangoproject.com/" target="_blank"><img src="https://raw.githubusercontent.com/hikigaya5/hikigaya5/main/icons/django.svg" alt="Django" width="50" height="50"/></a>
+    <a href="https://spring.io/" target="_blank"><img src="https://raw.githubusercontent.com/hikigaya5/hikigaya5/main/icons/spring.svg" alt="Spring" width="50" height="50"/></a>
+    <a href="https://www.oracle.com/" target="_blank"><img src="https://raw.githubusercontent.com/hikigaya5/hikigaya5/main/icons/oracle.svg" alt="Oracle" width="50" height="50"/></a>
+    <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/hikigaya5/hikigaya5/main/icons/mongodb.svg" alt="MongoDB" width="50" height="50"/></a>
+    <a href="https://pandas.pydata.org/" target="_blank"><img src="https://raw.githubusercontent.com/hikigaya5/hikigaya5/main/icons/pandas.svg" alt="Pandas" width="50" height="50"/></a>
+    <a href="https://seaborn.pydata.org/" target="_blank"><img src="https://raw.githubusercontent.com/hikigaya5/hikigaya5/main/icons/seaborn.svg" alt="Seaborn" width="50" height="50"/></a>
+    <a href="https://scikit-learn.org/" target="_blank"><img src="https://raw.githubusercontent.com/hikigaya5/hikigaya5/main/icons/scikit-learn.svg" alt="Scikit-learn" width="70" height="60"/></a>
+    <a href="https://git-scm.com/" target="_blank"><img src="https://raw.githubusercontent.com/hikigaya5/hikigaya5/main/icons/git.svg" alt="Git" width="60" height="50"/></a>
+    <a href="https://github.com/features/actions" target="_blank"><img src="https://raw.githubusercontent.com/hikigaya5/hikigaya5/main/icons/github%20actions.svg" alt="GitHub Actions" width="50" height="50"/></a>
 </p>
 <br>
 <h3 align="center">📚 What I'm Learning</h3>
