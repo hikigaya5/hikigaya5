@@ -17,9 +17,9 @@
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://raw.githubusercontent.com/hikigaya5/hikigaya5/main/icons/html.svg" alt="HTML" width="60" height="50"/></a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://raw.githubusercontent.com/hikigaya5/hikigaya5/main/icons/css.svg" alt="CSS" width="50" height="50"/></a>
     <a href="https://www.djangoproject.com/" target="_blank"><img src="https://raw.githubusercontent.com/hikigaya5/hikigaya5/main/icons/django.svg" alt="Django" width="50" height="50"/></a>
-    <a href="https://spring.io/" target="_blank"><img src="https://raw.githubusercontent.com/hikigaya5/hikigaya5/main/icons/spring.svg" alt="Spring" width="50" height="50"/></a>
+    <!--<a href="https://spring.io/" target="_blank"><img src="https://raw.githubusercontent.com/hikigaya5/hikigaya5/main/icons/spring.svg" alt="Spring" width="50" height="50"/></a>-->
     <a href="https://www.oracle.com/" target="_blank"><img src="https://raw.githubusercontent.com/hikigaya5/hikigaya5/main/icons/oracle.svg" alt="Oracle" width="50" height="50"/></a>
-    <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/hikigaya5/hikigaya5/main/icons/mongodb.svg" alt="MongoDB" width="50" height="50"/></a>
+    <!--<a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/hikigaya5/hikigaya5/main/icons/mongodb.svg" alt="MongoDB" width="50" height="50"/></a>-->
     <a href="https://pandas.pydata.org/" target="_blank"><img src="https://raw.githubusercontent.com/hikigaya5/hikigaya5/main/icons/pandas.svg" alt="Pandas" width="50" height="50"/></a>
     <a href="https://seaborn.pydata.org/" target="_blank"><img src="https://raw.githubusercontent.com/hikigaya5/hikigaya5/main/icons/seaborn.svg" alt="Seaborn" width="50" height="50"/></a>
     <a href="https://scikit-learn.org/" target="_blank"><img src="https://raw.githubusercontent.com/hikigaya5/hikigaya5/main/icons/scikit-learn.svg" alt="Scikit-learn" width="70" height="60"/></a>
